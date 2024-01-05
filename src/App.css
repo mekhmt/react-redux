@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: silver;
+}
+.container{
+  background-color: white;
+  width: 90vw;
+  height: 100vh;
+  margin: 10px auto;
+}

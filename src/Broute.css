@@ -1,0 +1,28 @@
+.navbar{
+    background-color: cornflowerblue;
+    padding-left: 5%;
+
+}
+
+.navbar ul{
+    list-style-type: none;
+}
+.navbar ul li{
+    display: inline-block;
+    padding: 10px;
+    
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+li:hover{
+    background-color: white;
+    color: cornflowerblue;
+}
+
+.navbar ul li a:hover{
+    color: cornflowerblue;
+}
